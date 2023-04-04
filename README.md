@@ -7,7 +7,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/ashishkhose7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashishkhose7" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ashishkhose7" height="30" width="40" /></a>
+<a href="https://instagram.com/ashish__khose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ashishkhose7" height="30" width="40" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=ashishkhose7&color=blue)
@@ -25,19 +25,19 @@
 #   Social Media Profile
 
 
- <a href="https://twitter.com/abhi1621_" title='Twitter'>
-    <img align="left" alt="Abhishek Jha | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
+ <a href="https://twitter.com" title='Twitter'>
+    <img align="left" alt="Ashish Khose | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
 </a>
- <a href="https://www.linkedin.com/in/abhi1621/" title='Linkedin'>
-    <img align="left" alt="Abhishek Jha " src="https://img.icons8.com/color/32/000000/linkedin.png" />
-</a>
-
-<a href="https://www.instagram.com/abhishek.jha1831/" title='Instagram'>
-    <img align="left" alt="Abhishek Jha " src="https://img.icons8.com/fluent/32/000000/instagram-new.png" />
+ <a href="https:/linkedin.com/in/ashishkhose7" title='Linkedin'>
+    <img align="left" alt="Ashish Khose" src="https://img.icons8.com/color/32/000000/linkedin.png" />
 </a>
 
-<a href="https://www.facebook.com/Abhishek.jha1621/" title='Facebook'>
-    <img align="left" alt="Abhihek Jha " src="https://img.icons8.com/fluent/32/000000/facebook-new.png" />
+<a href="https://www.instagram.com/ashish__khose"  title='Instagram'>
+    <img align="left" alt="Ashish Khose" src="https://img.icons8.com/fluent/32/000000/instagram-new.png" />
+</a>
+
+<a href="https://www.facebook.com/ashishkhose07/" title='Facebook'>
+    <img align="left" alt="Ashish Khose" src="https://img.icons8.com/fluent/32/000000/facebook-new.png" />
 </a>
 
 
