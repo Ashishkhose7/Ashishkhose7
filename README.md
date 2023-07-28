@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Khose </h1>
 <h3 align="center">A passionate Web Developer from Maharashtra India </h3>
 
-- 📫 How to reach me **ashishkhose7@gmail.com**
+- 📫 How to reach me **khoseashish7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
